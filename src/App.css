@@ -1,0 +1,39 @@
+body {
+  background: #f1f5f8;
+  color: #222;
+}
+
+.main-container {
+    padding: 4rem;
+}
+
+.post-and-update-books {
+    display: flex;
+    justify-content: space-around;
+    max-width: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+form {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form > button {
+    margin-top: 1rem;
+}
+
+label {
+    margin-top: 1rem;
+}
+
+button {
+    margin-top: 2rem;
+}
